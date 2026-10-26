@@ -1,4 +1,4 @@
-# INSGIHTS OF DATA
+# INSIGHTS OF DATA
 --------------------------------------------------------------------------------------------------------------------
 ## GLOBAL SALES & PROFIT ANALYSIS
 1. Profit and sales dropped in 2012 due to major dropped in sales of bikes from United States followed by Australia
